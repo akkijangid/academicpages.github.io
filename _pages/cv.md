@@ -11,18 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Civil Engineering, IIT Kanpur*
+* Ph.D in Civil Engineering, IIT Kanpur (ongoing)
 * B.Tech. in Civil Engineering, Govt Eng College Bikaner, 2017
 
  
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Prime Minister's Research Fellow (PMRF), May 2020
+* Honored with “Academic Excellence Award” for the year 2018, IIT Kanpur
+* Honours division in B.Tech.
 
 Publications
 ======
