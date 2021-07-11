@@ -1,15 +1,4 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Akshay K and Tiwari G (2020). Design of Remedial Measures for Rock Slides Mitigation with Limited Available Field and Laboratory Investigation Data: Theory and Field Implementation. Landslides. (Under review)
+Akshay K and Tiwari G (2020). Simplified Probabilistic Design Charts for Support Estimation to Mitigate Structurally-Controlled Rock Slides. Rock Mechanics and Rock Engineering. (Under review)
+Akshay K, Bhardwaj P and Tiwari G (2020). Applicability of Response Surface Methods in Different Rock Slopes Reliability Problems: Comparisons and Recommendations. International Journal of Rock Mechanics and Mining Sciences. (Under review)
