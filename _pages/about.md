@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Civil Engineering department of [Indian Institute of Technology Kanpur](https://www.iitk.ac.in/ce/).
+I am currently pursuing a PhD in Civil Engineering at [Indian Institute of Technology Kanpur](https://www.iitk.ac.in/ce/) under the supervision of [Prof. Gaurav Tiwari](https://www.iitk.ac.in/new/gaurav-tiwari).
 
 
-My thesis work is on '**Developement of Efficient Reliability based Stability and Design Analyses  Approaches for Rock Structures with Limited Investigation Data**'. 
+My thesis work focusses on '**Developement of Efficient Reliability based Stability and Design Analyses Approaches for Rock Structures with Limited Investigation Data**'. 
 
-
-I am  pursuing my work under the supervision of [Prof. Gaurav Tiwari](https://www.iitk.ac.in/new/gaurav-tiwari).
 
 **Contact**: akshaykj@iitk.ac.in
 
