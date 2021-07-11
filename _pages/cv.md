@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF format](https://akkijangid.github.io/files/CV_Academic_Homepage.pdf)
+
 Education
 ======
 * Ph.D in Civil Engineering, IIT Kanpur (ongoing)
