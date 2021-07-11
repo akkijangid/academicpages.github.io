@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /
+permalink: /Publications
 author_profile: true
 ---
 Akshay K and Tiwari G (2020). Design of Remedial Measures for Rock Slides Mitigation with Limited Available Field and Laboratory Investigation Data: Theory and Field Implementation. Landslides. (Under review)
