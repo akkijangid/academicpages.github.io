@@ -16,5 +16,5 @@ My thesis work focusses on '**Developement of Efficient Reliability based Stabil
 
 **Contact**: akshaykj@iitk.ac.in
 
-**Work Related Updates**
+# Work Related Updates
 
