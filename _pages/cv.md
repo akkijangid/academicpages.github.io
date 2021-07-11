@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Civil Engineering, IIT Kanpur (ongoing)
+* Ph.D. in Civil Engineering, IIT Kanpur (ongoing)
 * B.Tech. in Civil Engineering, Govt Eng College Bikaner, 2017
 
  
